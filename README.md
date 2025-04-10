@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving my coding skills and learning new languages<br>🌱 I’m currently learning Java and .Bat
+🔭 I’m currently working on improving my coding skills and learning new languages<br>🌱 I’m currently learning Java and C#
 
 
 # 💻 Tech Stack:
