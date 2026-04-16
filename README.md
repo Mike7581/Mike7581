@@ -16,7 +16,7 @@
 
 # 💻 Tech Stack:
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=ts,nextjs,tailwind,graphql,go,rust,nestjs,py,java,aws,html,css,js,bash" height="50" />
+  <img src="https://skillicons.dev/icons?i=nextpy,java,html,css,js,bash" height="50" />
 </div>
 
 ###
