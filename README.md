@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312E81,70:7C3AED,100:22D3EE&height=190&section=header&text=Talysson%20%22Mike%22%20Aguinario&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Backend%20Developer&descAlignY=58&descSize=18" alt="Talysson Mike Aguinario header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,35:312E81,70:7C3AED,100:22D3EE&height=190&section=header&text=Talysson%20Aguinario&fontSize=38&fontColor=FFFFFF&animation=fadeIn&fontAlignY=35&desc=Software%20Engineering%20Student%20%7C%20Backend%20Developer&descAlignY=58&descSize=18" alt="Talysson Aguinario header"/>
 
 <div align="center">
 
@@ -22,17 +22,17 @@
 
 ### 🇧🇷 Português
 
-Olá! Meu nome é **Talysson Aguinario Grande Dos Santos**, mas na internet sou conhecido como **Mike**.
+Olá! Meu nome é **Talysson Aguinario Grande Dos Santos**.
 
-Sou estudante de **Engenharia de Software** na **Universidade Federal do Pampa — UNIPAMPA**, Campus Alegrete, e possuo formação técnica em **Tecnologia da Informação**. Tenho conhecimento em **Java** e direciono meu desenvolvimento profissional para a área de **Backend**.
+Sou estudante de **Engenharia de Software** na **Universidade Federal do Pampa — UNIPAMPA**, Campus Alegrete, e possuo formação como **técnico em informática**. Tenho conhecimento em **Java** e direciono meu desenvolvimento profissional para a área de **Backend**.
 
 Também atuo como **freelancer por meio do Discord**, contribuindo em demandas de desenvolvimento conforme o escopo de cada projeto. Estou disponível para oportunidades profissionais que me permitam adquirir experiência, evoluir tecnicamente e participar da construção de soluções bem estruturadas.
 
 ### 🇺🇸 English
 
-Hello! My name is **Talysson Aguinario Grande Dos Santos**, also known online as **Mike**.
+Hello! My name is **Talysson Aguinario Grande Dos Santos**.
 
-I am a **Software Engineering** student at the **Federal University of Pampa — UNIPAMPA**, Alegrete Campus, and I also have a technical background in **Information Technology**. I have experience with **Java** and I am building my professional path toward **Backend Development**.
+I am a **Software Engineering** student at the **Federal University of Pampa — UNIPAMPA**, Alegrete Campus, and I am also a qualified **Computer Technician**. I have experience with **Java** and I am building my professional path toward **Backend Development**.
 
 I also work as a **freelancer through Discord**, contributing to development tasks according to each project's scope. I am currently open to professional opportunities where I can gain experience, improve my technical skills and help build well-structured software solutions.
 
@@ -91,11 +91,11 @@ Campus Alegrete — Rio Grande do Sul, Brasil
 * **Situação | Status:** Em andamento | In progress
 * **Início | Started:** 2026
 
-### Formação técnica em TI | Technical Education in IT
+### Técnico em Informática | Computer Technician
 
-Formação técnica voltada aos fundamentos de Tecnologia da Informação.
+Formação técnica voltada aos fundamentos de informática.
 
-Technical education focused on Information Technology fundamentals.
+Technical education focused on computer science fundamentals.
 
 ---
 
@@ -113,13 +113,13 @@ Freelance work through Discord, contributing to development tasks according to e
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mike7581&show_icons=true&include_all_commits=true&count_private=true&bg_color=020617&title_color=22D3EE&text_color=E2E8F0&icon_color=7C3AED&border_color=312E81&rank_icon=github" alt="Estatísticas do GitHub de Mike7581"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mike7581&show_icons=true&include_all_commits=true&count_private=true&bg_color=020617&title_color=22D3EE&text_color=E2E8F0&icon_color=7C3AED&border_color=312E81&rank_icon=github" alt="Estatísticas do GitHub"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mike7581&layout=compact&langs_count=8&bg_color=020617&title_color=22D3EE&text_color=E2E8F0&border_color=312E81" alt="Linguagens mais utilizadas por Mike7581"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mike7581&layout=compact&langs_count=8&bg_color=020617&title_color=22D3EE&text_color=E2E8F0&border_color=312E81" alt="Linguagens mais utilizadas"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Mike7581&background=020617&border=312E81&stroke=22D3EE&ring=7C3AED&fire=22D3EE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=C4B5FD&dates=94A3B8" alt="Sequência de contribuições de Mike7581"/>
+<img src="https://streak-stats.demolab.com?user=Mike7581&background=020617&border=312E81&stroke=22D3EE&ring=7C3AED&fire=22D3EE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=C4B5FD&dates=94A3B8" alt="Sequência de contribuições"/>
 
 </div>
 
@@ -161,10 +161,6 @@ I am available for **job opportunities**, especially in **Java Backend Developme
 
 <div align="center">
 
-<a href="https://github.com/Mike7581">
-  <img src="https://img.shields.io/badge/GitHub-Mike7581-020617?style=for-the-badge&logo=github&logoColor=white" alt="GitHub de Mike7581"/>
-</a>
-
 <a href="https://www.linkedin.com/in/talysson-aguinario-33b1aa404/">
   <img src="https://img.shields.io/badge/LinkedIn-Talysson%20Aguinario-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn de Talysson Aguinario"/>
 </a>
@@ -172,12 +168,6 @@ I am available for **job opportunities**, especially in **Java Backend Developme
 <a href="https://www.instagram.com/talysson_aguinario/">
   <img src="https://img.shields.io/badge/Instagram-@talysson__aguinario-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram de Talysson Aguinario"/>
 </a>
-
-<br/><br/>
-
-<img src="https://img.shields.io/badge/Discord-mike7581-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord mike7581"/>
-
-<br/><br/>
 
 **Obrigado por visitar meu perfil! | Thank you for visiting my profile!**
 
