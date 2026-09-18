@@ -26,7 +26,7 @@ Olá! Meu nome é **Talysson Aguinario Grande Dos Santos**.
 
 Sou estudante de **Engenharia de Software** na **Universidade Federal do Pampa — UNIPAMPA**, Campus Alegrete, e possuo formação como **técnico em informática**. Tenho conhecimento em **Java** e direciono meu desenvolvimento profissional para a área de **Backend**.
 
-Também atuo como **freelancer por meio do Discord**, contribuindo em demandas de desenvolvimento conforme o escopo de cada projeto. Estou disponível para oportunidades profissionais que me permitam adquirir experiência, evoluir tecnicamente e participar da construção de soluções bem estruturadas.
+Também atuo como **freelancer**, contribuindo em demandas de desenvolvimento conforme o escopo de cada projeto. Busco adquirir experiência, evoluir tecnicamente e participar da construção de soluções bem estruturadas.
 
 ### 🇺🇸 English
 
@@ -34,19 +34,7 @@ Hello! My name is **Talysson Aguinario Grande Dos Santos**.
 
 I am a **Software Engineering** student at the **Federal University of Pampa — UNIPAMPA**, Alegrete Campus, and I am also a qualified **Computer Technician**. I have experience with **Java** and I am building my professional path toward **Backend Development**.
 
-I also work as a **freelancer through Discord**, contributing to development tasks according to each project's scope. I am currently open to professional opportunities where I can gain experience, improve my technical skills and help build well-structured software solutions.
-
----
-
-## 🎯 Objetivo profissional | Professional Goal
-
-<div align="center">
-
-> Construir uma carreira sólida em desenvolvimento Backend, aplicando Java, boas práticas de Engenharia de Software e aprendizado contínuo na criação de soluções confiáveis e bem estruturadas.
-
-> Build a solid career in Backend Development by applying Java, Software Engineering best practices and continuous learning to create reliable and well-structured solutions.
-
-</div>
+I also work as a **freelancer**, contributing to development tasks according to each project's scope. I am focused on gaining experience, improving my technical skills and helping build well-structured software solutions.
 
 ---
 
@@ -54,28 +42,16 @@ I also work as a **freelancer through Discord**, contributing to development tas
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=java,git,github,idea,vscode\&theme=dark)](https://skillicons.dev)
+### Linguagens e desenvolvimento | Languages & Development
 
-<br/>
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
+[![Visual Studio Code](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
 
-![Java](https://img.shields.io/badge/Java-Backend%20Development-7C3AED?style=for-the-badge\&logo=openjdk\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Version%20Control-22D3EE?style=for-the-badge\&logo=git\&logoColor=020617)
-![GitHub](https://img.shields.io/badge/GitHub-Code%20Hosting-312E81?style=for-the-badge\&logo=github\&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-Development-7C3AED?style=for-the-badge\&logo=intellijidea\&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/VS%20Code-Editor-22D3EE?style=for-the-badge\&logo=visualstudiocode\&logoColor=020617)
+### Versionamento e colaboração | Version Control & Collaboration
 
-</div>
-
----
-
-## 🚀 Foco profissional | Professional Focus
-
-<div align="center">
-
-|                      Backend Development                      |                        Java                        |                Software Engineering                |
-| :-----------------------------------------------------------: | :------------------------------------------------: | :------------------------------------------------: |
-| Construção de lógica, serviços e soluções do lado do servidor | Linguagem principal para estudos e desenvolvimento |   Organização, manutenção e evolução de sistemas   |
-|       Server-side logic, services and software solutions      |    Primary language for learning and development   | System organization, maintainability and evolution |
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
 
 </div>
 
@@ -89,7 +65,6 @@ I also work as a **freelancer through Discord**, contributing to development tas
 Campus Alegrete — Rio Grande do Sul, Brasil
 
 * **Situação | Status:** Em andamento | In progress
-* **Início | Started:** 2026
 
 ### Técnico em Informática | Computer Technician
 
@@ -103,9 +78,9 @@ Technical education focused on computer science fundamentals.
 
 ### Freelancer
 
-Atuação como freelancer por meio do Discord, colaborando em demandas de desenvolvimento de acordo com as necessidades e o escopo de cada cliente.
+Atuo como freelancer, colaborando em demandas de desenvolvimento de acordo com as necessidades e o escopo de cada projeto.
 
-Freelance work through Discord, contributing to development tasks according to each client's needs and project scope.
+I work as a freelancer, contributing to development tasks according to each project's needs and scope.
 
 ---
 
@@ -113,13 +88,13 @@ Freelance work through Discord, contributing to development tasks according to e
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mike7581&show_icons=true&include_all_commits=true&count_private=true&bg_color=020617&title_color=22D3EE&text_color=E2E8F0&icon_color=7C3AED&border_color=312E81&rank_icon=github" alt="Estatísticas do GitHub"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Mike7581&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0&icon_color=7C3AED&rank_icon=github" alt="Estatísticas do GitHub"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mike7581&layout=compact&langs_count=8&bg_color=020617&title_color=22D3EE&text_color=E2E8F0&border_color=312E81" alt="Linguagens mais utilizadas"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mike7581&layout=compact&langs_count=6&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=E2E8F0" alt="Linguagens mais utilizadas"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Mike7581&background=020617&border=312E81&stroke=22D3EE&ring=7C3AED&fire=22D3EE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=C4B5FD&dates=94A3B8" alt="Sequência de contribuições"/>
+<img src="https://streak-stats.demolab.com?user=Mike7581&hide_border=true&background=0D1117&ring=7C3AED&fire=22D3EE&currStreakNum=F8FAFC&sideNums=F8FAFC&currStreakLabel=22D3EE&sideLabels=C4B5FD&dates=94A3B8" alt="Sequência de contribuições"/>
 
 </div>
 
@@ -129,7 +104,7 @@ Freelance work through Discord, contributing to development tasks according to e
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Mike7581\&bg_color=020617\&color=22D3EE\&line=7C3AED\&point=FFFFFF\&area=true\&area_color=312E81\&hide_border=true\&custom_title=Contribution%20Activity)](https://github.com/Mike7581)
+[![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=Mike7581\&bg_color=0D1117\&color=E2E8F0\&line=22D3EE\&point=7C3AED\&area=true\&area_color=312E81\&hide_border=true\&custom_title=GitHub%20Contribution%20Graph)](https://github.com/Mike7581)
 
 </div>
 
@@ -139,19 +114,7 @@ Freelance work through Discord, contributing to development tasks according to e
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Mike7581\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=8\&margin-h=8\&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 🤝 Disponibilidade | Availability
-
-<div align="center">
-
-Estou disponível para oportunidades de **emprego**, especialmente na área de **Backend com Java**.
-
-I am available for **job opportunities**, especially in **Java Backend Development**.
+[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Mike7581\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=12\&margin-h=12\&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
