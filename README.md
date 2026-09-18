@@ -100,26 +100,6 @@ I work as a freelancer, contributing to development tasks according to each proj
 
 ---
 
-## 📈 Atividade | Contribution Activity
-
-<div align="center">
-
-[![Gráfico de contribuições](https://github-readme-activity-graph.vercel.app/graph?username=Mike7581\&bg_color=0D1117\&color=E2E8F0\&line=22D3EE\&point=7C3AED\&area=true\&area_color=312E81\&hide_border=true\&custom_title=GitHub%20Contribution%20Graph)](https://github.com/Mike7581)
-
-</div>
-
----
-
-## 🏆 Troféus | GitHub Trophies
-
-<div align="center">
-
-[![Troféus do GitHub](https://github-profile-trophy.vercel.app/?username=Mike7581\&theme=tokyonight\&no-frame=true\&no-bg=true\&margin-w=12\&margin-h=12\&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🌐 Contato | Contact
 
 <div align="center">
