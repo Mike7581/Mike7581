@@ -24,7 +24,7 @@
 
 Olá! Meu nome é **Talysson Aguinario Grande Dos Santos**.
 
-Sou estudante de **Engenharia de Software** na **Universidade Federal do Pampa — UNIPAMPA**, Campus Alegrete, e possuo formação como **técnico em informática**. Tenho conhecimento em **Java** e direciono meu desenvolvimento profissional para a área de **Backend**.
+Sou estudante de **Engenharia de Software** na **Universidade Federal do Pampa — UNIPAMPA**, e possuo formação como **técnico em informática**. Tenho conhecimento em **Java** e direciono meu desenvolvimento profissional para a área de **Backend**.
 
 Também atuo como **freelancer**, contribuindo em demandas de desenvolvimento conforme o escopo de cada projeto. Busco adquirir experiência, evoluir tecnicamente e participar da construção de soluções bem estruturadas.
 
@@ -32,7 +32,7 @@ Também atuo como **freelancer**, contribuindo em demandas de desenvolvimento co
 
 Hello! My name is **Talysson Aguinario Grande Dos Santos**.
 
-I am a **Software Engineering** student at the **Federal University of Pampa — UNIPAMPA**, Alegrete Campus, and I am also a qualified **Computer Technician**. I have experience with **Java** and I am building my professional path toward **Backend Development**.
+I am a **Software Engineering** student at the **Federal University of Pampa — UNIPAMPA**, and I am also a qualified **Computer Technician**. I have experience with **Java** and I am building my professional path toward **Backend Development**.
 
 I also work as a **freelancer**, contributing to development tasks according to each project's scope. I am focused on gaining experience, improving my technical skills and helping build well-structured software solutions.
 
