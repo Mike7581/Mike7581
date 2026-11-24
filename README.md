@@ -62,7 +62,7 @@ I also work as a **freelancer**, contributing to development tasks according to 
 ### Engenharia de Software | Software Engineering
 
 **Universidade Federal do Pampa — UNIPAMPA**
-Campus Alegrete — Rio Grande do Sul, Brasil
+ — Rio Grande do Sul, Brasil
 
 * **Situação | Status:** Em andamento | In progress
 
